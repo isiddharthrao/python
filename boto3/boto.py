@@ -3,9 +3,9 @@
 
 import boto3
 # Replace with your actual credentials
-aws_access_key_id = ''
-aws_secret_access_key = ''
-aws_session_token = ''  # Only required for temporary credentials
+# aws_access_key_id = ''
+# aws_secret_access_key = ''
+# aws_session_token = ''  # Only required for temporary credentials
 region_name = 'us-east-2' # Specify your desired AWS region
 
 # Step 2: Create an S3 client
