@@ -1,9 +1,6 @@
 #Describe all ec2 instances using boto3
 import boto3
 import json
-#aws_access_key_id = ''
-#aws_secret_access_key = ''
-#aws_session_token = ''  # Only required for temporary credentials
 region_name = 'us-east-2' # Specify your desired AWS region
 
 # Create an EC2 client
